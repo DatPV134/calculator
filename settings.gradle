@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "calculator"
+include ':ads'
+include ':symja_android_library-release'
